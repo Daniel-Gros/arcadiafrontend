@@ -3,7 +3,7 @@ Arcadia est un project scolaire full stack d'application complète pour un Zoo f
 
 # Environnement de travail
 
-Plusieurs pré-recquis pouvoir faire fonctionner le projet en local (partie backend).
+Plusieurs pré-recquis pouvoir faire fonctionner le projet en local (partie frontend).
 
 # IDE
 
